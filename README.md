@@ -1,1 +1,1 @@
-# object-Relation-Management
+# just-tech-news
