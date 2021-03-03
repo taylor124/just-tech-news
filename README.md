@@ -1,11 +1,11 @@
-# Description
+<!-- # Description
 
 ## Commits
 
 ### Branches made
 
-develop ▼
-* feature/user-model: ▼
+develop
+* feature/user-model:
 
     * Initialized Repo
 
@@ -23,4 +23,4 @@ develop ▼
         * Created schema.sql >
         * Added DATABASE queries
 
-    * Ran npm install express sequelize mysql2
+    * Ran npm install express sequelize mysql2 -->
